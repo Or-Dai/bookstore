@@ -14,7 +14,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
  *
  *@InterfaceName AdminDao
  *@Description TODO
- *@author 肖汉昌
+ *@author
  *@date 2020/10/14 15:08
  *@version 1.0
  **/
