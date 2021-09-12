@@ -9,12 +9,11 @@ import org.springframework.web.bind.annotation.*;
 import javax.servlet.http.HttpServletRequest;
 
 /**
- * 管理员接口类
+ * 管理员接口类fefe
  */
 @RestController
 @RequestMapping("/admin")
 public class AdminController {
-
 
     @Autowired
     private AdminService adminService;
